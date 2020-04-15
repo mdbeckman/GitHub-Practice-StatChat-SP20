@@ -35,6 +35,7 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Joe Roith         | Section 007       | joeroith             |                                   |
 | Andrew Poppick    | Section 003       | apoppick             | N/A                               |
 | Benjamin Crary    | Section 003       | benjamincrary        |     |  
 | Laura Le          | Stat Chat         | laurasunshine4       |        |  
