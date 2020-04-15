@@ -38,6 +38,7 @@
 | Laura Le          | Stat Chat         | laurasunshine4       |        |  
 | Chelsey Legacy    | Section 001       | calegacy             |  <https://github.com/calegacy>   |
 | Andrew Zieffler   | Section 021       | zief0002             | <https://zief0002.github.io/>    | 
+| Lisa Lendway.     | Section 500.      | llendway             | <https://llendway.github.io/statchattest/> |
 
 
 <br>
