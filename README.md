@@ -35,11 +35,12 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Andrew Poppick    | Section 003       | apoppick             | N/A                               |
 | Benjamin Crary    | Section 003       | benjamincrary        |     |  
 | Laura Le          | Stat Chat         | laurasunshine4       |        |  
 | Chelsey Legacy    | Section 001       | calegacy             |  <https://github.com/calegacy>   |
 | Andrew Zieffler   | Section 021       | zief0002             | <https://zief0002.github.io/>    | 
-| Lisa Lendway      | Section 500      | llendway             | <https://llendway.github.io/statchattest/> |
+| Lisa Lendway      | Section 500       | llendway             | <https://llendway.github.io/statchattest/> |
 
 
 <br>
