@@ -34,14 +34,8 @@
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
-| Joe Roith         | Section 007       | joeroith             |                                   |
-| Andrew Poppick    | Section 003       | apoppick             | N/A                               |
-| Benjamin Crary    | Section 003       | benjamincrary        |     |  
-| Laura Le          | Stat Chat         | laurasunshine4       |        |  
-| Chelsey Legacy    | Section 001       | calegacy             |  <https://github.com/calegacy>   |
-| Andrew Zieffler   | Section 021       | zief0002             | <https://zief0002.github.io/>    | 
-| Lisa Lendway      | Section 500       | llendway             | <https://llendway.github.io/statchattest/> |
+| Matt Beckman   | Sec 003 (10am T/R)   | mdbeckman            | <https://mdbeckman.github.io/>    |  
+| Student        | Feb 2020 Stat Chat   | wsgosset    | <https://mdbeckman.github.io/2020-Twin-Cities-Stat-Chat/>    |  
 
 
 <br>
